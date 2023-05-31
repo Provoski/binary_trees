@@ -6,7 +6,7 @@ binary_trees
 - [Introduction](Introduction)
 - [Project Objectives](Objectives)
 - [Development Tools](Tools)
-- [Start Program](Start Program)
+- [Start Program](Start)
 - [Use Program](Use)
 
 ## Introduction
