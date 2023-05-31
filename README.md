@@ -2,12 +2,12 @@
 binary_trees
 
 ## Table of content
-- [Title](Title)
+- [Project Title](Title)
 - [Introduction](Introduction)
-- [Project Objectives](Projects Objectives)
-- [Development Tools](Development Tools)
+- [Project Objectives](Objectives)
+- [Development Tools](Tools)
 - [Start Program](Start Program)
-- [Use Program](Use Program)
+- [Use Program](Use)
 
 ## Introduction
 this project has to do with the implementation of the binary search tree.The goal pf this project isto help understand how binary tree works. It inclu
