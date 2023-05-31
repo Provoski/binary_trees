@@ -2,7 +2,7 @@
 binary_trees
 
 ## Table of content
-- [Title](Project Title)
+- [Title](Title)
 - [Introduction](Introduction)
 - [Project Objectives](Projects Objectives)
 - [Development Tools](Development Tools)
